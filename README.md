@@ -1,16 +1,23 @@
-## Hi there 👋
+ ## Hi 👋, I'm Khadija
 
-<!--
-**Khadija-labs/Khadija-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💡 Interested in Automation, Artificial Intelligence & Problem Solving  
+🗄 Experienced with Database concepts & OOP  
+🤖 Exploring AI and smart system development  
+📍 Lahore, Pakistan  
 
-Here are some ideas to get you started:
+ ### 🚀 Technical Interests
+🔹 Object-Oriented Programming (OOP)  
+🔹 Database Design & Management  
+🔹 Automation Systems  
+🔹 Artificial Intelligence  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Goals
+✨ Build intelligent & automated systems  
+📈 Continuously improve technical skills  
+🌍 Contribute to impactful tech projects  
+
+📫 Connect with me:
+- 🔗 LinkedIn: https://linkedin.com/in/khadija-amin-dev
