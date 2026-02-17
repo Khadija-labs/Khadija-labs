@@ -10,7 +10,8 @@
 🔹 Object-Oriented Programming (OOP)  
 🔹 Database Design & Management  
 🔹 Automation Systems  
-🔹 Artificial Intelligence  
+🔹 Machine Learning
+🔹 Artificial Intelligence 
 
 ---
 
